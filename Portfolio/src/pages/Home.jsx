@@ -21,11 +21,11 @@ const Home = () => {
 
       <div className="transition-all duration-500 ease-in-out bg-gray-950 p-10 flex justify-around items-center space-y-10 md:space-y-0 xl:px-96 flex-col md:flex-row text-[#f9f9f9]">
         <div className="text-center">
-          <h1 className=" text-5xl font-extrabold mb-5">2.5 +</h1>
+          <h1 className=" text-5xl font-extrabold mb-5">3+</h1>
           <h1 className=" text-2xl">Years Experience</h1>
         </div>
         <div className="text-center">
-          <h1 className=" text-5xl font-extrabold mb-5">5 +</h1>
+          <h1 className=" text-5xl font-extrabold mb-5">6 +</h1>
           <h1 className=" text-2xl">Completed Projects</h1>
         </div>
         <div className="text-center">

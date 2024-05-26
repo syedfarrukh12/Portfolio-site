@@ -3,6 +3,8 @@ import oav from '../assets/oav.jpg'
 import caresolace from '../assets/caresolace.png'
 import coworks from '../assets/coworks.png'
 import foretrace from '../assets/foretrace.jpg'
+import predictview from '../assets/predictview.jpeg'
+
 
 export const projectsList = [
     {
@@ -53,6 +55,17 @@ export const projectsList = [
         image: foretrace,
         technologies: [
             'NodeJs', 'AWS Lambda', 'GraphQL', 'AWS Appsync', 'ReactJs'
+        ]
+    },
+    {
+        title: "PredictView",
+        description: `PredictView is a cutting-edge health technology company dedicated to improving mental wellness with 
+        its AI-based solutions to engage people who are seeking self-insights with options to access the help they need. 
+        Worked as a full stack engineer mainly focusing on backend, cloud logging and test automation.
+        `,
+        image: predictview,
+        technologies: [
+            'NodeJs', 'NestJs', 'ExpressJs', 'NextJs', 'React', 'GCP', 'Cloud Logging', 'PostgreSQL', 'Material-UI', 'Microservice Architecture', 'Jest', 'RTL'
         ]
     },
 ]
