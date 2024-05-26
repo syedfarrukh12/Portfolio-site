@@ -25,7 +25,7 @@ const Home = () => {
           <h1 className=" text-2xl">Years Experience</h1>
         </div>
         <div className="text-center">
-          <h1 className=" text-5xl font-extrabold mb-5">6 +</h1>
+          <h1 className=" text-5xl font-extrabold mb-5">6+</h1>
           <h1 className=" text-2xl">Completed Projects</h1>
         </div>
         <div className="text-center">
