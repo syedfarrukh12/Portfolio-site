@@ -1,6 +1,7 @@
 import profileimg from "../assets/pic4.jpg";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 
 export default function Banner() {
   return (
@@ -29,6 +30,13 @@ export default function Banner() {
             >
               Visit my GitHub
               <GitHubIcon className="ml-3" />
+            </a>
+            <a
+              href="https://www.upwork.com/freelancers/~01f46a5e376bec7386"
+              className="bg-gray-600 rounded-full p-5 hover:bg-gray-700 flex items-center justify-center"
+            >
+              Visit my Upwork
+              <ArrowOutwardIcon className="ml-3" />
             </a>
           </div>
         </div>
