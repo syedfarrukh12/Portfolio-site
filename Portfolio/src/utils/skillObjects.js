@@ -1,5 +1,6 @@
 import {
   Aws,
+  Azure,
   Cplusplus,
   Csharp,
   DotNet,
@@ -148,5 +149,9 @@ export const skills = [
   {
     name: "GraphQL",
     component: Graphql,
+  },
+  {
+    name: "Microsoft Azure",
+    component: Azure,
   },
 ];
